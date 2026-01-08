@@ -1,4 +1,4 @@
----
+---uuu
 manufacturer: 
     - xiaomi
 
