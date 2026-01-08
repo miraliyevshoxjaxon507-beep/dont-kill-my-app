@@ -1,4 +1,4 @@
----
+good
 manufacturer: 
     - xiaomi
 
